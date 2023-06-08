@@ -8,6 +8,6 @@ public class GerenciadoreventosApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GerenciadoreventosApplication.class, args);
+		System.out.println("teste");
 	}
-
 }
